@@ -7,7 +7,7 @@ html {
   h1 {
     font-size: 60px;
     text-align: center;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
   
   p, li {
