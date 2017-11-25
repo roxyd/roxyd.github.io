@@ -18,7 +18,7 @@ html {
   
   
   html {
-    background-color: #00539F;
+    background-color: #007544;
   }
   
   body {
@@ -31,12 +31,15 @@ html {
   
   h1 {
     margin: 0;
-    padding: 20px 0;  
-    color: #00539F;
+    padding: 20px 0;
+    color: #ffe6ee;
     text-shadow: 3px 3px 1px black;
   }
   
   img {
     display: block;
     margin: 0 auto;
+  }
+  .main-img {
+    max-width: 100%;
   }
